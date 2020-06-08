@@ -24,3 +24,30 @@ label {
     margin: 3px;
 }
 
+.shopButton {
+  text-align:center;
+  margin-top: 10px;
+  
+}
+
+.shopButton button {
+  width:40%;
+}
+
+#tooltiptext {
+  border: black 2px;
+  background-color: #ddd;
+  border-radius: 5px;
+  position: absolute;
+  max-width: 250px;
+  padding: 5px;
+}
+
+.labelTotal, #priceTotal {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+
+
+
